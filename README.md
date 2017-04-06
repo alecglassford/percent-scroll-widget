@@ -4,7 +4,7 @@
 
 It's a Chrome extension that tracks how far down the page you've scrolled! Click on the little button, and an overlay will pop up. Click it again and it will go away. Nice.
 
-Honestly, it nudges your reading experience a bit closer to dystopia. Why do you need to know what percentage of the way through an article you are? Are you so desperate to be done with it? Isn't it better to immerse yourself in the reading experience and learn or enjoy or appreciate or simply experience? This is your one life, after all.
+Honestly, it nudges your reading experience a bit closer to dystopia. Why do you need to know what percentage of the way through an article you are? Are you so desperate to be done with it? Isn't it better to immerse yourself in the reading experience and learn or enjoy or appreciate? This is your one life, after all.
 
 But I found myself wanting this to better estimate how long school assignments would take me to read. Or just if I had time to finish other things. I usually don't use it, but sometimes it comes in handy.
 
