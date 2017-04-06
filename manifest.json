@@ -1,9 +1,9 @@
 {
-    "name": "% scroll widget",
+    "name": "Percent Scroll Widget",
     "version": "1",
     "manifest_version": 2,
-    "description": "If the percent sign in the name of this extension leads to some sort of string format vulnerability, I will be very sad.",
-    "homepage_url": "https://alecglassford.com",
+    "description": "How far down the webpage are you? Use this to keep track. Not that it's a race. Ugh just immerse yourself in the reading, actually.",
+    "homepage_url": "https://github.com/alecglassford/percent-scroll-widget",
     "permissions": ["activeTab"],
     "background": {
         "scripts": ["js/background.js"],

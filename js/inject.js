@@ -1,4 +1,5 @@
 'use strict';
+
 var tracker = document.getElementById('percent-scroll-tracker');
 if (tracker === null) {
     try {
@@ -10,6 +11,7 @@ if (tracker === null) {
         tracker.setPercentage(tracker);
         document.body.appendChild(tracker);
         window.addEventListener('scroll', tracker.setPercentage, true);
+        window.addEventListener('resize', tracker.setPercentage, true);
     }
     catch (err) {
         console.err('Failed to load percent-scroll widget:', err.message);
@@ -18,6 +20,7 @@ if (tracker === null) {
 else {
     if (tracker.hasOwnProperty('setPercentage')){
         window.removeEventListener('scroll', tracker.setPercentage);
+        window.removeEventListener('resize', tracker.setPercentage);
     }
     tracker.remove();
 }

@@ -5,9 +5,9 @@
     padding-right: 2em;
     padding-top: 4em;
     font-size: 3em;
-    opacity: .1;
+    opacity: 0.1;
 }
 
 #percent-scroll-tracker:hover {
-    opacity: .1;
+    opacity: 0.5;
 }
