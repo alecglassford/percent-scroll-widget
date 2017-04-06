@@ -12,7 +12,7 @@ Which is all to say: Be wary of this, but I hope it can be helpful to you too.
 
 ## Installation
 
-You can install from the Chrome Web Store. As soon as I get it in there, I'll add a link.
+[You can get it from the Chrome Web Store.](https://chrome.google.com/webstore/detail/percent-scroll-widget/cgchlengahipakmdkopgeheagmlcifep)
 
 ## Questions, concerns, suggestions?
 
